@@ -1,0 +1,24 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.content {
+  padding: 20px;
+}
+
+.tab-content {
+  padding: 20px;
+}
+
+.tab-content button {
+  margin-right: 10px;
+}
+
+.grid-button {
+  width: 80%;
+  height: 60%;
+}
+
+mat-grid-tile {
+  background: #f0f0f0;
+}
